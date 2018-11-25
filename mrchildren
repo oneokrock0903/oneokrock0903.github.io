@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>hobby|mr.children</title>
+<link href="https://fonts.googleapis.com/css?family=Bitter:400,700" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/style3.css" rel="stylesheet">
+</head>
+<body id="photograph">
+  
+  <!-- header始まり -->
+  <header>
+    <div class="logo">
+      <a href="index.html"><img src="images/homepage.dms" alt="SNAPPERS"></a>
+    </div>
+    <nav>
+      <ul class="global-nav">
+        <li><a href="portfolio.html">Hobby</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="study.html">Study</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- header終わり -->
+  
+  <!-- wrap始まり -->
+  <div id="wrap" class="clearfix">
+    <div class="content">
+      <div class="main">
+        <h1>Musician</h1>
+        <p>好きなミュージシャンのアルバムを紹介したいと思います。</p>
+        <section id="city">
+          <h2 class="icon">Mr.Children</h2>
+         </section> 
+<div class="cp_cssslider">
+<input type="radio" name="cp_switch" id="photo1" checked/>
+<label for="photo1"><img src="images/m1.jpg" /></label>
+<img src="images/m1.jpg" />
+<input type="radio" name="cp_switch" id="photo2"/>
+<label for="photo2"><img src="images/m2.jpg" /></label>
+<img src="images/m2.jpg" />
+<input type="radio" name="cp_switch" id="photo3"/>
+<label for="photo3"><img src="images/m3.jpg" /></label>
+<img src="images/m3.jpg" />
+<input type="radio" name="cp_switch" id="photo4"/>
+<label for="photo4"><img src="images/m4.jpg" /></label>
+<img src="images/m4.jpg"/>
+<input type="radio" name="cp_switch" id="photo5"/>
+<label for="photo5"><img src="images/m5.jpg" /></label>
+<img src="images/m5.jpg" />
+ <input type="radio" name="cp_switch" id="photo6"/>
+<label for="photo6"><img src="images/m6.jpg" /></label>
+<img src="images/m6.jpg" /> 
+  <input type="radio" name="cp_switch" id="photo7"/>
+<label for="photo7"><img src="images/m7.jpg" /></label>
+<img src="images/m7.jpg" />
+  <input type="radio" name="cp_switch" id="photo8"/>
+<label for="photo8"><img src="images/m8.jpg" /></label>
+<img src="images/m8.jpg" />
+ <input type="radio" name="cp_switch" id="photo9"/>
+<label for="photo9"><img src="images/m9.jpg" /></label>
+<img src="images/m9.jpg" /> 
+ <input type="radio" name="cp_switch" id="photo10"/>
+<label for="photo10"><img src="images/m10.jpg" /></label>
+<img src="images/m10.jpg" /> 
+  <input type="radio" name="cp_switch" id="photo11"/>
+<label for="photo11"><img src="images/m11.jpg" /></label>
+<img src="images/m11.jpg" />
+  <input type="radio" name="cp_switch" id="photo12"/>
+<label for="photo12"><img src="images/m12.jpg" /></label>
+<img src="images/m12.jpg" />
+  <input type="radio" name="cp_switch" id="photo13"/>
+<label for="photo13"><img src="images/m13.jpg" /></label>
+<img src="images/m13.jpg" />
+  <input type="radio" name="cp_switch" id="photo14"/>
+<label for="photo14"><img src="images/m14.jpg" /></label>
+<img src="images/m14.jpg" />
+  <input type="radio" name="cp_switch" id="photo15"/>
+<label for="photo15"><img src="images/m15.jpg" /></label>
+<img src="images/m15.jpg" />
+  <input type="radio" name="cp_switch" id="photo16"/>
+<label for="photo16"><img src="images/m16.jpg" /></label>
+<img src="images/m16.jpg" />
+  <input type="radio" name="cp_switch" id="photo17"/>
+<label for="photo17"><img src="images/m17.jpg" /></label>
+<img src="images/m17.jpg" />
+</div>
+       
+      </div>
+      <aside class="sidebar">
+        <section>
+          <h2>MUSICIAN</h2>
+          <ul>
+            <li><a href="photograph.html#city">Mr.Children</a></li>
+            <li><a href="photograph.html#beach">B'z</a></li>
+            <li><a href="photograph.html#forest">ONE OK ROCK</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Video</h2>
+          <ul>
+            <li><a href="video.html#movie">Movie</a></li>
+            <li><a href="video.html#short-film">Short film</a></li>
+          </ul>
+        </section>
+      </aside>
+    </div>
+  </div>
+  <!-- wrap終わり -->
+  
+  <!-- footer始まり -->
+  <footer>
+    <small>KISHI HIDENORI</small>
+  </footer>
+  <!-- footer終わり -->
+  
+</body>
+</html>
