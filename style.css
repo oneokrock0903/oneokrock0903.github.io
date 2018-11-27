@@ -266,11 +266,11 @@ a img:hover {
 }
 
 #photograph {
-  background-image: url(../images/bg-photograph.jpg);
+  background-image: url(../images/mr6.png);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
-  background-size: 100% auto;
+  background-size: 100% 60%;
 }
 
 #photograph .photograph-list li {
